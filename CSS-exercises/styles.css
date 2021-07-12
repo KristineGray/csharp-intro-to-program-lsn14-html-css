@@ -1,2 +1,11 @@
 ﻿body {
+    background-color: yellow;
+    text-align: center;
 }
+p {
+    color: green;
+}
+h1 {
+    font-size: 36px;
+}
+
