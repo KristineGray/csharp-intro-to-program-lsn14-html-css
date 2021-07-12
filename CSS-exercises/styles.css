@@ -10,4 +10,13 @@ h1 {
 .heading {
     text-align:center;
 }
+#cool-text {
+    color: blue;
+}
+#red-text {
+    color: red;
+}
+#orange-text {
+    color: orange;
+}
 
